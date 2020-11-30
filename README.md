@@ -8,6 +8,7 @@ Workshop led by Bogdan Covrig
 Python Club members:
 Gijs van Dijck
 Andreea Grigoriu
+Bogdan Covrig
 Ous Haidar
 Constanta Rosca
 Antoine Louis
